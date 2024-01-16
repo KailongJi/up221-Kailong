@@ -2,7 +2,7 @@
 
 ## Kailong Ji's Data Science Project Space
 
-Hello, and welcome to my Data Science Project Space! I'm Kailong Ji, and this repository serves as a platform for documenting my journey into the fascinating world of data science.
+Hello, and welcome to Kailong Ji's Data Science Project Space! I'm Kailong Ji, and this repository serves as a platform for documenting my journey into the fascinating world of data science.
 
 ### About Me
 
